@@ -11,5 +11,6 @@ Console.WriteLine("Digite o comprimento do terreno (em emtros):");
 comprimentoTerreno = Console.ReadLine();
 comprimento = decimal.Parse(comprimentoTerreno);
 
+
 Area = largura *comprimento
 
